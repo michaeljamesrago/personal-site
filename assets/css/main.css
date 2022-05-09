@@ -4,7 +4,7 @@
 /*
 	Strata by HTML5 UP
 	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license
 */
 
 html, body, div, span, applet, object,
@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f0ffee;
+		background: #f8fcfd;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #72bcd4 !important;
 			text-decoration: none;
 		}
 
@@ -1765,7 +1765,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #b2b2b2;
+		color: #e9f5f8;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2590,7 +2590,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #6e724e;
+		background-color: #44a6c6;
 		background-attachment: scroll,								scroll;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
